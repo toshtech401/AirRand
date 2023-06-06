@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "RandApp",
+    "name": "AirRand App",
     "slug": "RandApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splashed.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
